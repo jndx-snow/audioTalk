@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id = "@+id/container"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:background="@drawable/back_title"
+        android:gravity="center_vertical"
+        android:padding="10px"
+        android:text="会话列表"
+        android:textColor="@android:color/black"
+        android:textSize="22sp" />
+    <LinearLayout
+        android:id="@+id/ll_talk"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:orientation="horizontal"
+        android:background="@android:color/darker_gray"
+        android:layout_below="@+id/title">
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="95.0dip"
+        android:id= "@+id/bottom"
+        android:layout_alignParentBottom = "true"
+        android:gravity="center"
+        android:background="@android:color/white">
+        <RelativeLayout
+            android:id= "@+id/speak_bottom"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:visibility="gone">
+            <ImageButton
+                android:id = "@+id/voice_input"
+                android:layout_width = "wrap_content"
+                android:layout_height = "wrap_content"
+                android:padding="5.0dip"
+                android:layout_centerInParent="true"
+                android:src="@drawable/siri_button"
+                android:scaleType="fitCenter"
+                android:background="@null" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id= "@+id/rl_bottom"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white">
+            <ImageButton
+                android:id = "@+id/speak_input"
+                android:layout_width = "wrap_content"
+                android:layout_height = "50dip"
+                android:padding="5.0dip"
+                android:layout_alignParentLeft ="true"
+                android:src="@drawable/mic"
+                android:adjustViewBounds="true"
+                android:background="@null"
+                />
+            <ImageButton
+                android:id = "@+id/btn_msg_send"
+                android:layout_width = "wrap_content"
+                android:layout_height = "50dip"
+                android:layout_alignParentRight ="true"
+                android:src="@drawable/send_btn"
+                android:padding="5.0dip"
+                android:scaleType="fitXY"
+                android:background="@null"
+                android:text="发送"/>
+            <EditText
+                android:id = "@+id/et_message"
+                android:layout_width="fill_parent"
+                android:layout_height = "50dip"
+                android:layout_toRightOf="@id/speak_input"
+                android:layout_toLeftOf="@id/btn_msg_send"
+                android:hint = "请输入文字..."
+                android:textSize="18dip"
+                android:maxLines="3"
+                android:background="@android:drawable/edit_text"/>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollingCache="false"
+        android:divider="#ffc6c6c6"
+        android:layout_weight="1.0"
+        android:layout_above="@id/bottom"
+        android:layout_below="@+id/ll_talk"
+        android:background="@drawable/back_ground"/>
+</RelativeLayout>

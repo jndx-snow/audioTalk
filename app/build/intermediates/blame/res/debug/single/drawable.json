@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\siri_button.xml",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable\\siri_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    }
+]

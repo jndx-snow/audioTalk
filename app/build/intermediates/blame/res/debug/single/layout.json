@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cmd_list.xml",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\layout\\cmd_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\msg_list_items.xml",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\layout\\msg_list_items.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cmd_list_item.xml",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\layout\\cmd_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_list_item.xml",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\layout\\main_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_file.xml",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\layout\\select_file.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\read_activity.xml",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\layout\\read_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idetify_activity.xml",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\layout\\idetify_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_command_activity.xml",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\layout\\add_command_activity.xml"
+    }
+]

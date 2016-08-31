@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mic.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\mic.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\arrow.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\siri_button_normal.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\siri_button_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\button.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back_ground1.jpg",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\back_ground1.jpg"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\setting.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\send_btn_p.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\send_btn_p.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cancel.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\help.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\help.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mic_p.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\mic_p.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\msgbox_rec.9.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\msgbox_rec.9.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\communicate.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\communicate.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\msgbox_send.9.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\msgbox_send.9.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back_title.jpg",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\back_title.jpg"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\siri_button_running.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\siri_button_running.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_plus.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\icon_plus.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\send_btn.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\send_btn.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back_ground.jpg",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\back_ground.jpg"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\read.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\read.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\save.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\save.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\AndroidTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search.png",
+        "source": "D:\\Android\\workspace\\AndroidTalk\\app\\src\\main\\res\\drawable-mdpi\\search.png"
+    }
+]

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:background="@drawable/back_title"
+        android:gravity="center_vertical"
+        android:padding="10px"
+        android:text="语音播放"
+        android:textColor="@android:color/black"
+        android:textSize="22sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@android:color/darker_gray"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back_ground"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/et_input"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="请输入播放内容...."/>
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <Button
+                android:id="@+id/btn_read_text"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:layout_weight="0.5"
+                android:background="@drawable/button_selector"
+                android:text="开始播放"
+                android:textSize="24sp"/>
+            <!--<LinearLayout
+                android:layout_width="match_parent"
+
+                android:background="@android:color/darker_gray">
+            </LinearLayout>-->
+
+            <Button
+                android:id="@+id/btn_readFile"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_gravity="bottom"
+                android:layout_marginRight="3dp"
+                android:layout_weight="0.5"
+                android:background="@drawable/button_selector"
+                android:text="选择文件"
+                android:textSize="24sp"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="content_color">#737373</color>
+    <color name="list_backgroud_color">#2fb3cb</color>
+    <color name="title_color">#0f8ec5</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="btn_size">22sp</dimen>
+    <dimen name="line_height">1dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="pading">5dp</dimen>
+    <dimen name="txt_size">18sp</dimen>
+    <drawable name="cln_normal">#6699FF</drawable>
+    <drawable name="cln_pressed">#3366CC</drawable>
+    <drawable name="layout_backgroud">#000000</drawable>
+    <drawable name="line_background">#161823</drawable>
+    <string name="app_name">AndroidTalk</string>
+    <string name="help">      本应用包括添加用户命令映射，语音识别，语音阅读，智能打开等几部分。其中语音阅读不仅能够阅读用户输入的文字而且能够阅读“SD卡路径/AndroidTalk”文件路径下的.txt文档内容；且语音识别和语音阅读均可实现中、英文的识别和阅读。各部分功能和操作介绍如下：\n
+          用户命令映射：用于用户自行设置“智能打开”映射；\n
+           语音识别：用于识别用户说出的内容，并将其显示出来。其可识别的语言为：中文、英语等；\n
+              语音阅读：用于阅读用户输入的内容和sd卡存储的txt文档。该部分包括选择待阅读文件、自行输入内容等概念；\n
+          智能打开：支持采用语音或文字输入方式，根据已设置的命令映射打开指定的已安装应用程序。\n
+    </string>
+    <string name="text_begin">请开始说话…</string>
+    <string name="text_download_success">下载成功</string>
+    <string name="text_userword_empty">词表下载失败或内容为空</string>
+</resources>
